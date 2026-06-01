@@ -27,7 +27,7 @@ A Java + MySQL + JDBC based application for managing enterprise assets and incid
 
 ### Database Records
 
-![Assets Table](screenshots/assets-incident table.png)
+![Database Records](screenshots/database-records.png)
 
 ## Author
 
